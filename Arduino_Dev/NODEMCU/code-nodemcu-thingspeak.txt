@@ -1,0 +1,79 @@
+#include<Wire.h>
+#include<LiquidCrystal_I2C.h>
+#include<ESP8266WiFi.h>
+
+
+const char* ssid = "Connectify-nlznakub";
+const char* password = "waterfire";
+
+const char* host = "api.thingspeak.com";
+const char* api = "SJV5B288ISYL9N5L";
+
+LiquidCrystal_I2C lcd(0x3F,16,2);
+
+String addr = "57122608";
+int rssi = 20;
+
+void setup() {
+  // put your setup code here, to run once:
+  lcd.begin();
+  // Print a message to the LCD.
+  pinMode(D8,INPUT);
+  Serial.begin(115200);
+  delay(10);
+  Serial.println();
+  Serial.println();
+  Serial.println("Connecting to : ");
+  Serial.println(ssid);
+  WiFi.begin(ssid, password);
+
+    while(WiFi.status() != WL_CONNECTED){
+      delay(500);
+      Serial.print(".");
+    }
+
+  Serial.println();
+  Serial.println("WiFi Connected");
+  Serial.println("IP address : " + WiFi.localIP());
+  lcd.print("Successful");
+  lcd.setCursor(5,1);
+  lcd.print(WiFi.localIP());
+  Serial.print("connecting to : " );
+  Serial.println(host);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  
+  // Bluetooth
+
+  WiFiClient client;
+  const int httpPort = 80;
+  if(!client.connect(host,httpPort)){
+    Serial.println("failed");
+    return;
+  }
+
+  
+  // ThingSpeak Cloud
+  if(digitalRead(D8) == 0){
+      String url = "/update?api_key=";
+      url += api;
+      url += "&field1=";
+      url += "Sleep";
+      url += "&field2=";
+      url += "S";      
+      Serial.print("Requesting URL : ");
+      Serial.println(url);
+    
+      client.print(String("GET ") + url + " HTTP/1.1\r\n" +
+                   "Host: " + host + "\r\n" + 
+                   "Connection: close\r\n\r\n");
+      delay(10);
+      while(client.available()){
+        String line = client.readStringUntil('\r');
+        Serial.print(line);
+      }    
+  } 
+}
+

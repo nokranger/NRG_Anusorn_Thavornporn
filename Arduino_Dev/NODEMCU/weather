@@ -1,0 +1,392 @@
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+Connect TCP Server
+Success
+GET /data/2.5/weather?q=bangkok&appid=2100e87ca548704c2137ff03cd791158&mode=xml&units=metric
+
+Host: api.openweathermap.org
+
+City ID
+1609350
+City Name
+Bangkok
+Wind Speed
+2.6
+Humidity
+74
+Temperature
+27.5
+<current><city id="1609350" name="Bangkok"><coord lon="100.52" lat="13.75"></coord><country>TH</country><sun rise="2017-01-16T23:45:35" set="2017-01-17T11:10:58"></sun></city><temperature value="27.5" min="27" max="28" unit="metric"></temperature><humidity value="74" unit="%"></humidity><pressure value="1014" unit="hPa"></pressure><wind><speed value="2.6" name="Light breeze"></speed><gusts></gusts><direction value="60" code="ENE" name="East-northeast"></direction></wind><clouds value="40" name="scattered clouds"></clouds><visibility value="10000"></visibility><precipitation mode="no"></precipitation><weather number="802" value="scattered clouds" icon="03n"></weather><lastupdate value="2017-01-17T16:30:00"></lastupdate></current>
+
